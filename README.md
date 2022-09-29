@@ -1,1 +1,1 @@
-h1>Minecraft Bot 24/7<h1>
+<h1>Minecraft Bot 24/7<h1>
